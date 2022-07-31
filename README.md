@@ -6,10 +6,10 @@ In this repository I am comparing the "Group K-Fold" and the "K-Fold" Cross Vali
 
 The trained Supervised Machine Learning models:
 
-*1. AdaBoost Classifier
-*2. Random Forest Classifier
-*3. Decision Trees Classifier
-*4. Logistic Regression
+## *1. AdaBoost Classifier
+## *2. Random Forest Classifier
+## *3. Decision Trees Classifier
+## *4. Logistic Regression
 
 In the next notebook I will be finetuning these models to improve the accuracy results.
 
